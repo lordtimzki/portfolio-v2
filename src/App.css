@@ -6,6 +6,13 @@
   --color-purp2: #370d5a;
   --font-roboto: "Roboto", sans-serif;
 }
+
 body {
   @apply overflow-hidden;
+}
+
+@layer base {
+  html {
+    @apply bg-gradient-to-b from-purp1 to-purp2;
+  }
 }
