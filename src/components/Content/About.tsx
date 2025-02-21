@@ -10,7 +10,7 @@ const About = () => {
         <a
           href="https://www.anime-shikanoko.jp/"
           target="_blank"
-          className="text-violet-500"
+          className="text-gray-200"
         >
           one
         </a>{" "}

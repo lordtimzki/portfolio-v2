@@ -7,7 +7,7 @@ const Menu = () => {
       <p className=" font-thin pt-2 text-center sm:pl-4 sm:text-left sm:pt-0 select-none">
         Front-End Developer
       </p>
-      <Options></Options>
+      <Options />
     </div>
   );
 };
