@@ -12,7 +12,11 @@ const Window = () => {
       case "projects":
         return <Projects />;
       case "resume":
-        return <div>Resume Content</div>;
+        return (
+          <a href="../../../Timothy_Dacalos_Resume.pdf" target="_blank">
+            Resume
+          </a>
+        );
       default:
         return <About />;
     }

@@ -18,8 +18,7 @@ const About = () => {
       </p>
       <p className="text-base leading-relaxed">
         Outside of programming, my usual hobbies include watching/reviewing
-        anime and playing video games. Oh and I watch basketball as well. <br />
-        Light the Beam!!!
+        anime and playing video games. Oh and I watch basketball as well.
       </p>
     </div>
   );
