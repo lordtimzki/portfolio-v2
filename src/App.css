@@ -1,10 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 @import "tailwindcss";
+@plugin "daisyui";
 
 @theme {
   --color-purp1: #291292;
   --color-purp2: #370d5a;
   --font-roboto: "Roboto", sans-serif;
+  --color-dark-mac-content: #2b2b2f;
+  --color-dark-mac-title: #3e3e40;
+  --color-dark-mac-side: #2e2e2f;
 }
 
 @layer base {

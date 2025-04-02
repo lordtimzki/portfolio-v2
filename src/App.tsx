@@ -1,6 +1,7 @@
 import "./App.css";
 import Content from "./components/Content/Content";
 import Menu from "./components/Menu/Menu";
+import Window from "./components/Window";
 
 function App() {
   return (
@@ -8,11 +9,11 @@ function App() {
       <div className="flex flex-col min-h-screen sm:block">
         <Menu />
         <div
-          className="font-roboto container text-gray-4
-          sm:fixed sm:right-25 sm:top-25 sm:max-w-lg 
-          max-w-2xs mx-auto mt-20 sm:mt-0 px-4"
+          className="font-roboto container
+          sm:fixed sm:right-35 sm:top-25 sm:max-w-lg 
+          max-w-2xs mx-auto mt-10 sm:mt-0 px-4"
         >
-          <Content />
+          <Window />
         </div>
       </div>
     </div>
