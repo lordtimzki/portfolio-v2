@@ -13,7 +13,10 @@ const Window = () => {
         return <Projects />;
       case "resume":
         return (
-          <a href="../../../Timothy_Dacalos_Resume.pdf" target="_blank">
+          <a
+            href="https://drive.google.com/file/d/1tocb0cJJgj1LrUMhIILyd_kBiyyzxB2z/view?usp=sharing"
+            target="_blank"
+          >
             Resume
           </a>
         );
