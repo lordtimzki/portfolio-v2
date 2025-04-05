@@ -5,7 +5,7 @@ const Projects = () => {
         <div className="card bg-base-300 shadow-xl overflow-hidden min-w-[320px] max-w-sm">
           <figure className="h-48 overflow-hidden">
             <img
-              src="https://media.discordapp.net/attachments/627651183259156511/1356858004993216654/ShazAnime.png?ex=67ee17fd&is=67ecc67d&hm=3b6d4a37dbdbae16088e74325beeef7ef61724aa82433fc44da0002c31cd8b5b&=&format=webp&quality=lossless&width=1038&height=700"
+              src="https://i.ibb.co/3yFF8j8j/image.png"
               alt="ShazAnime screenshot"
               className="w-full h-full object-cover"
             />
@@ -31,7 +31,7 @@ const Projects = () => {
         <div className="card bg-base-300 shadow-xl overflow-hidden min-w-[320px] max-w-sm">
           <figure className="h-48 overflow-hidden">
             <img
-              src="https://media.discordapp.net/attachments/627651183259156511/1356861663961288734/image.png?ex=67ee1b65&is=67ecc9e5&hm=544488066365be9ed6c7094f432973c71f4d11b1895d978ceb69a56439a5e015&=&format=webp&quality=lossless&width=2928&height=1198"
+              src="https://i.ibb.co/hxrw3RKd/image.png"
               alt="Spotify Browser screenshot"
               className="w-full h-full object-cover"
             />
